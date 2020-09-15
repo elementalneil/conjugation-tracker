@@ -1,0 +1,216 @@
+1. Conjugaciónes del verbo escribir
+	Yo escribo
+	Tú escribes
+	Él/Ella/Usted escribe
+	Ellos/Ellas/Ustedes escriben
+	Nosotros escribimos
+	Vosotros escribis
+
+2. Conjugaciónes del verbo vivir
+	Yo vivo
+	Tú vives
+	Él/Ella/Usted vive
+	Ellos/Ellas/Ustedes viven
+	Nosotros vivimos
+	Vosotros vivis
+
+3. Conjugaciónes del verbo tener
+	Yo tengo
+	Tú tienes
+	Él/Ella/Usted tiene
+	Ellos/Ellas/Ustedes tienen
+	Nosotros tenemos
+	Vosotros teneis
+
+4. Conjugaciónes del verbo ser
+	Yo soy
+	Tú eres
+	Él/Ella/Usted es
+	Ellos/Ellas/Ustedes son
+	Nosotros somos
+	Vosotros sois
+
+5. Conjugaciónes del verbo estar
+	Yo estoy
+	Tú estas
+	Él/Ella/Usted esta
+	Ellos/Ellas/Ustedes estan
+	Nosotros estamos
+	Vosotros estais
+
+6. Conjugaciónes del verbo querer
+	Yo quiero
+	Tú quieres
+	Él/Ella/Usted quiere
+	Ellos/Ellas/Ustedes quieren
+	Nosotros queremos
+	Vosotros quereis
+
+7. Conjugaciónes del verbo comprar (buy)
+	Yo compro
+	Tú compras
+	Él/Ella/Usted compra
+	Ellos/Ellas/Ustedes compran
+	Nosotros compramos
+	Vosotros comprais
+
+8. Conjugaciónes del verbo necesitar
+	Yo necesito
+	Tú necesitas
+	Él/Ella/Usted necesita
+	Ellos/Ellas/Ustedes necesitan
+	Nosotros necesitamos
+	Vosotros necesitais
+
+9. Conjugaciónes del verbo comprender
+	Yo comprendo
+	Tú comprendes
+	Él/Ella/Usted comprende
+	Ellos/Ellas/Ustedes comprenden
+	Nosotros comprendemos
+	Vosotros comprendeis
+
+10. Conjugaciónes del verbo hablar
+	Yo hablo
+	Tú hablas
+	Él/Ella/Usted habla
+	Ellos/Ellas/Ustedes hablan
+	Nosotros hablamos
+	Vosotros hablais
+
+11. Conjugaciónes del verbo leer (read)
+	Yo leo
+	Tú lees
+	Él/Ella/Usted lee
+	Ellos/Ellas/Ustedes leen
+	Nosotros leemos
+	Vosotros leeis
+
+12. Conjugaciónes del verbo estudiar
+	Yo estudio
+	Tú estudias
+	Él/Ella/Usted estudia
+	Ellos/Ellas/Ustedes estudian
+	Nosotros estudiamos
+	Vosotros estudiais
+
+13. Conjugaciónes del verbo llamar
+	Yo llamo
+	Tú llamas
+	Él/Ella/Usted llama
+	Ellos/Ellas/Ustedes llaman
+	Nosotros llamamos
+	Vosotros llamais
+
+14. Conjugaciónes del verbo usar
+	Yo uso
+	Tú usas
+	Él/Ella/Usted usa
+	Ellos/Ellas/Ustedes usan
+	Nosotros usamos
+	Vosotros usais
+
+15. Conjugaciónes del verbo disfrutar
+	Yo disfruto
+	Tú disfrutas
+	Él/Ella/Usted disfruta
+	Ellos/Ellas/Ustedes disfrutan
+	Nosotros disfrutamos
+	Vosotros disfrutais
+
+16. Conjugaciónes del verbo trabajar
+	Yo trabajo
+	Tú trabajas
+	Él/Ella/Usted trabaja
+	Ellos/Ellas/Ustedes trabajan
+	Nosotros trabajamos
+	Vosotros trabajais
+
+17. Conjugaciónes del verbo comer
+	Yo como
+	Tú comes
+	Él/Ella/Usted come
+	Ellos/Ellas/Ustedes comen
+	Nosotros comemos
+	Vosotros comeis
+
+18. Conjugaciónes del verbo beber
+	Yo bebo
+	Tú bebes
+	Él/Ella/Usted bebe
+	Ellos/Ellas/Ustedes beben
+	Nosotros bebemos
+	Vosotros bebeis
+
+19. Conjugaciónes del verbo aprender (learn)
+	Yo aprendo
+	Tú aprendes
+	Él/Ella/Usted aprende
+	Ellos/Ellas/Ustedes aprenden
+	Nosotros aprendemos
+	Vosotros aprendeis
+
+20. Conjugaciónes del verbo sentir
+	Yo siento
+	Tú sientes
+	Él/Ella/Usted siente
+	Ellos/Ellas/Ustedes sienten
+	Nosotros sentimos
+	Vosotros sentis
+
+21. Conjugaciónes del verbo sentirse
+	Yo me siento
+	Tú te sientes
+	Él/Ella/Usted se siente
+	Ellos/Ellas/Ustedes se sienten
+	Nosotros nos sentimos
+	Vosotros os sentis
+
+22. Conjugaciónes del verbo entrar
+	Yo entro
+	Tú entras
+	Él/Ella/Usted entra
+	Ellos/Ellas/Ustedes entran
+	Nosotros entramos
+	Vosotros entrais
+
+23. Conjugaciónes del verbo alquilar
+	Yo alquilo
+	Tú alquilas
+	Él/Ella/Usted alquila
+	Ellos/Ellas/Ustedes alquilan
+	Nosotros alquilamos
+	Vosotros alquilais
+	
+24. Conjugaciónes del verbo amar
+	Yo amo
+	Tú amas
+	Él/Ella/Usted ama
+	Ellos/Ellas/Ustedes aman
+	Nosotros amamos
+	Vosotros amais
+
+25. Conjugaciónes del verbo enviar
+	Yo envio
+	Tú envias
+	Él/Ella/Usted envia
+	Ellos/Ellas/Ustedes envian
+	Nosotros enviamos
+	Vosotros enviais
+
+26. Conjugaciónes del verbo olvidar
+	Yo olvido
+	Tú olvidas
+	Él/Ella/Usted olvida
+	Ellos/Ellas/Ustedes olvidan
+	Nosotros olvidamos
+	Vosotros olvidais
+
+27. Conjugaciónes del verbo poder (can)
+	Yo puedo
+	Tú puedes
+	Él/Ella/Usted puede
+	Ellos/Ellas/Ustedes pueden
+	Nosotros podemos
+	Vosotros podeis
+
